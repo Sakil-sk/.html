@@ -1,0 +1,37 @@
+.my-card-img{
+    width: 50px;
+    align-self:center;
+}
+
+.card{
+    border: none !important;
+}
+
+.my-img{
+    width:500px
+}
+
+
+.play-icon{
+    width: 60px;
+    align-self: center ;
+}
+
+
+.hero-background{
+    background-image: url('https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_1280.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:500px
+}
+
+.hero-title{
+    margin-top: 180px;
+}
+
+.nav-logo{
+    width: 150px;
+}
+
+
